@@ -1,0 +1,20 @@
+.imgTshirt {
+    position: relative;
+}
+
+.meanText {
+    position: absolute;
+    top: 190px;
+    left: 210px;
+}
+
+.meanText img {
+    max-width: 300px;
+    border: white sloid 6px;
+}
+
+.meanText p {
+    font-family: Impact, Charcoal, sans-serif;
+    color: white;
+}
+
